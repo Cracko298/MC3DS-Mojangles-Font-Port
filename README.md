@@ -6,7 +6,7 @@ A Minecraft3DS Port of the Original v1.0 Mojangles font to the Latest Patch v1.9
 
 
 ## Installing:
-- **You can either download the Mod from the [MC3DS Unistore]() or Manually Install it [Here]().**
+- **You can either download the Mod from the [MC3DS Unistore]() or Manually Install it [Here](https://github.com/Cracko298/MC3DS-Mojangles-Font-Port/releases/download/v1.0.0/mc3ds_oldfont.zip).**
 
 ### Manual Installation:
 ```
